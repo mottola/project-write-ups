@@ -1,0 +1,11 @@
+I created a simple user-authentication app because I was having a difficult time with the slack clone.
+
+My user authentication application helped me understand the separation of data, such as using a views folder for what the user can see and a models folder for data modeling.
+
+I used several new node packages (which I looked up) to help figure out how to handle user registration and verification.
+
+The app allows someone to visit the /secret page if they are logged in, but the page won't appear if they are not logged in.
+
+The most frustrating part was definitely trying to comprehend how things are linked to each other, and how data is passed and shared across files.
+
+I feel that in the future, once I figure out how to do something, like a new lightbulb moment, I should stop whatever I am doing and utilize that new knowledge several times. For instance, figuring out how to incorporate whether or not a user was logged in was difficult, and I eventually figured it out. However, I don't feel like I have it down. In the future I will make sure I can retain that new knowledge for future use.  
